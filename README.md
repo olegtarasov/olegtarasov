@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **me@olegtarasov.email or https://t.me/tarasovoleg**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
