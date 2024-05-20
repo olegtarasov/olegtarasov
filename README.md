@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **me@olegtarasov.email or https://t.me/tarasovoleg**
 
-### Blog posts
+### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [OpenTherm thermostat with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
 - [Making a prototype OpenTherm thermostat](https://olegtarasov.me/opentherm-thermostat-esphome-prototype1/)
