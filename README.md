@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg Tarasov</h1>
-<h3 align="center">I'm an AI expert and engineering manager with fourteen years of experience building distributed systems.</h3>
+<h3 align="center">I'm an engineering manager, AI expert and IoT enthusiast with fourteen years of experience building distributed systems.</h3>
 
 - 🔭 I currently work as head of IT R&D department at **Beeline** — one of the largest telecom companies in Russia.
 
