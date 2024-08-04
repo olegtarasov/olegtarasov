@@ -3,7 +3,7 @@
 
 - 🔭 I currently work as head of IT R&D department at **Beeline** — one of the largest telecom companies in Russia.
 
-- 🧑‍💻 In my spare time I'm currently building an OpenTherm integration for ESPHome project [esphome-opentherm](https://github.com/olegtarasov/esphome-opentherm)
+- 🧑‍💻 In my spare time I'm currently building OpenTherm integration for ESPHome project [esphome-opentherm](https://github.com/olegtarasov/esphome-opentherm)
 
 - 📝 I am documenting my shenanigans in my blog [https://olegtarasov.me](https://olegtarasov.me)
 
