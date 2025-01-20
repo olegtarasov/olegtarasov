@@ -11,11 +11,11 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing SCD41, BME280, BME680, DS18B20, PT100 and SNZB-02P temperature sensors for DIY thermostat](https://olegtarasov.me/environmental-sensors/)
 - [ESPHome packages and substitutions tutorial: managing complex configurations effectively](https://olegtarasov.me/esphome-packages-substitutions-tutorial/)
 - [Using Nextion display with ESPHome](https://olegtarasov.me/nextion-display-esphome/)
 - [OpenTherm thermostat with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
 - [Making a prototype OpenTherm thermostat](https://olegtarasov.me/opentherm-thermostat-esphome-prototype1/)
-- [Export anaconda environment with conda export](https://olegtarasov.me/export-anaconda-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
